@@ -7,7 +7,7 @@ This Jupyter Notebook, titled "LBD4ConstructionManagement" has been prepared for
 By the end of this lecture, participants should be able to:
 
 * Recognize the benefits of using linked building data in construction management.
-* Basic understanding of the [cSite ontology] (https://www.sciencedirect.com/science/article/pii/S0926580523004843#bi0005)
+* Basic understanding of the [cSite ontology](https://www.sciencedirect.com/science/article/pii/S0926580523004843#bi0005)
 * Identify the challenges and solutions associated with implementing linked data in construction projects.
 
 ## Prerequsites
@@ -27,6 +27,12 @@ Participants are expected to have:
 3. Navigate to the directory containing the downloaded notebook.
 4. Open the notebook file "Linked Data and Construction management.ipynb".
 5. Execute the cells in order according to the instructions provided within the notebook. Make sure that path to "ProjectGraph.ttl" is correct.
+
+## Authors
+
+This repository is built by:
+
+Ranjith Soman, Delft University of Technology  [profile](https://www.tudelft.nl/en/staff/r.soman/)
 
 ## License
 
