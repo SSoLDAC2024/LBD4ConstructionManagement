@@ -22,10 +22,11 @@ Participants are expected to have:
 
 ## Usage
 
-1. Open Jupyter Lab or Jupyter Notebook.
-2. Navigate to the directory containing the downloaded notebook.
-3. Open the notebook file "Linked Data and Construction management.ipynb".
-4. Execute the cells in order according to the instructions provided within the notebook.
+1. Clone this repo or download "Linked Data and Construction management.ipynb" and "ProjectGraph.ttl" to your computer.
+2. Open Jupyter Lab or Jupyter Notebook.
+3. Navigate to the directory containing the downloaded notebook.
+4. Open the notebook file "Linked Data and Construction management.ipynb".
+5. Execute the cells in order according to the instructions provided within the notebook. Make sure that path to "ProjectGraph.ttl" is correct.
 
 ## License
 
